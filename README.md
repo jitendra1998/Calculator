@@ -1,2 +1,2 @@
 # Calculator
-a simple calculator for android
+web calculator build with html,css,javascript
